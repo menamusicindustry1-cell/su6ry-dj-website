@@ -1,0 +1,1 @@
+SU6RY DJ website with five optimized photographs. Deploy this folder to Vercel; the booking API requires GOOGLE_SCRIPT_URL and BOOKING_SECRET configured as secure server-side environment variables and an authorized Google Apps Script web app. Until configured, booking submissions report an error rather than claiming successful delivery.
